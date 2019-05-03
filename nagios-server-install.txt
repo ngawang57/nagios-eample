@@ -23,7 +23,7 @@ echo vm.swappiness = 0 >> /etc/sysctl.conf && sysctl -p
 htpasswd -c /etc/nagios/passwd nagiosadmin 
 
 # browse server from url:
-http://172.30.3.77/nagios
+http://172.30.3.97/nagios
 
 
 ---------------------------------------------------------------------
